@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi_Step_Reg", "Multi_Step_Reg\Multi_Step_Reg.csproj", "{559D6DAD-B084-4814-974B-E7C0572B9888}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{559D6DAD-B084-4814-974B-E7C0572B9888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559D6DAD-B084-4814-974B-E7C0572B9888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559D6DAD-B084-4814-974B-E7C0572B9888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559D6DAD-B084-4814-974B-E7C0572B9888}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {639FFC79-3E62-4B1C-8908-36C7EF5F4FDC}
+	EndGlobalSection
+EndGlobal
